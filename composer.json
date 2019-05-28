@@ -1,6 +1,5 @@
 {
     "name": "desmondcodelab/packagewebsitedev",
-    "name": "desmond/webiste",
     "type": "library",
     "require": {
         "illuminate/support": "^5.8",
