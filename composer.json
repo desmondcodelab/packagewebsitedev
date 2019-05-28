@@ -1,0 +1,27 @@
+{
+    "name": "desmondcodelab/packagewebsitedev",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^5.8",
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Desmond\\Website\\": "src"
+        }
+    },
+
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "desmond",
+            "email": "desmond@iscity.com.my"
+        }
+    ],
+    "minimum-stability": "dev"
+}
