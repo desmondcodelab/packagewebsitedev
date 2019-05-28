@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "desmondcodelab/packagewebsitedev",
+=======
+    "name": "desmond/webiste",
+>>>>>>> e1c62c675f431cdb405a3e61b316055dd0f9f3f6
     "type": "library",
     "require": {
         "illuminate/support": "^5.8",
